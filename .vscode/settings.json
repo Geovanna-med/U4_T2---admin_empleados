@@ -1,0 +1,6 @@
+{
+  "java.project.referencedLibraries": [
+    "lib/**/*.jar",
+    "c:\\Users\\Geovanna Medina\\Downloads\\itextpdf-5.5.13.3.jar"
+  ]
+}
